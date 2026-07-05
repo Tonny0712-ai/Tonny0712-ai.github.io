@@ -545,6 +545,6 @@ EIBCEIBCEcBQjhAVQjhAUI4QFCOEAhCKA4QhAIQhICEIQCOKEBxxQgOKEUAhCEAhCEAhCEAhCEAhCEoI
     window.open(`https://wa.me/51928978041?text=${encodeURIComponent(msg)}`, '_blank');
   });
 </script>
-
+<script defer data-relevanceai-share-id="bcbe5a/33cc1392-1fc9-4f6a-9274-e6c68af7f1f8/09203669-10c5-4166-99c7-d7529f850c7b" src="https://app.relevanceai.com/embed/chat-bubble.js" data-share-styles="hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false" ></script>
 </body>
 </html>
